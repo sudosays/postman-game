@@ -1,0 +1,6 @@
+[gd_resource type="PlaneShape" format=2]
+
+[resource]
+
+plane = Plane( 0, 1, 0, 0 )
+
